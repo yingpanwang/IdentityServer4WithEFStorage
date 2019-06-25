@@ -1,0 +1,4 @@
+# IdentityServer4WithEFStorage
+使用EF持久化IdentityServer4配置信息到数据库
+
+参考了晓晨Master的博文建立的工程
